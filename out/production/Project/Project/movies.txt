@@ -1,0 +1,459 @@
+Title: The Shawshank Redemption
+Rating: 9.3
+Main Actors: Tim Robbins, Morgan Freeman
+Genre: Drama
+
+Title: The Godfather
+Rating: 9.2
+Main Actors: Marlon Brando, Al Pacino
+Genre: Crime
+
+Title: The Dark Knight
+Rating: 9.0
+Main Actors: Christian Bale, Heath Ledger
+Genre: Action
+
+Title: Pulp Fiction
+Rating: 8.9
+Main Actors: John Travolta, Samuel L. Jackson
+Genre: Crime
+
+Title: Inception
+Rating: 8.8
+Main Actors: Leonardo DiCaprio, Joseph Gordon-Levitt
+Genre: Sci-Fi
+
+Title: Forrest Gump
+Rating: 8.8
+Main Actors: Tom Hanks
+Genre: Drama
+
+Title: The Matrix
+Rating: 8.7
+Main Actors: Keanu Reeves, Laurence Fishburne
+Genre: Sci-Fi
+
+Title: Interstellar
+Rating: 8.6
+Main Actors: Matthew McConaughey, Anne Hatha
+Genre: Sci-Fiway
+
+Title: The Lion King
+Rating: 8.5
+Main Actors: Matthew Broderick, James Earl Jones
+Genre: Animation
+
+Title: Toy Story
+Rating: 8.3
+Main Actors: Tom Hanks, Tim Allen
+Genre: Animation
+
+Title: The Godfather: Part II
+Rating: 9.0
+Main Actors: Al Pacino, Robert De Niro
+Genre: Crime
+
+Title: The Dark Knight Rises
+Rating: 8.4
+Main Actors: Christian Bale, Tom Hardy
+Genre: Action
+
+Title: The Prestige
+Rating: 8.5
+Main Actors: Hugh Jackman, Christian Bale
+Genre: Mystery
+
+Title: Saving Private Ryan
+Rating: 8.6
+Main Actors: Tom Hanks, Matt Damon
+Genre: War
+
+Title: Gladiator
+Rating: 8.5
+Main Actors: Russell Crowe, Joaquin Phoenix
+Genre: Action
+
+Title: Braveheart
+Rating: 8.4
+Main Actors: Mel Gibson, Sophie Marceau
+Genre: Biography
+
+Title: The Departed
+Rating: 8.5
+Main Actors: Leonardo DiCaprio, Matt Damon
+Genre: Crime
+
+Title: The Green Mile
+Rating: 8.6
+Main Actors: Tom Hanks, Michael Clarke Duncan
+Genre: Drama
+
+Title: The Matrix Reloaded
+Rating: 7.2
+Main Actors: Keanu Reeves, Laurence Fishburne
+Genre: Sci-Fi
+
+Title: The Matrix Revolutions
+Rating: 6.8
+Main Actors: Keanu Reeves, Carrie-Anne Moss
+Genre: Sci-Fi
+
+Title: Titanic
+Rating: 7.8
+Main Actors: Leonardo DiCaprio, Kate Winslet
+Genre: Romance/Drama
+
+Title: Avatar
+Rating: 7.8
+Main Actors: Sam Worthington, Zoe Saldana
+Genre: Sci-Fi/Adventure
+
+Title: Inglourious Basterds
+Rating: 8.3
+Main Actors: Brad Pitt, Christoph Waltz
+Genre: War/Drama
+
+Title: The Social Network
+Rating: 7.7
+Main Actors: Jesse Eisenberg, Andrew Garfield
+Genre: Biography/Drama
+
+Title: Shutter Island
+Rating: 8.1
+Main Actors: Leonardo DiCaprio, Mark Ruffalo
+Genre: Mystery/Thriller
+
+Title: The Revenant
+Rating: 8.0
+Main Actors: Leonardo DiCaprio, Tom Hardy
+Genre: Adventure/Drama
+
+Title: Django Unchained
+Rating: 8.4
+Main Actors: Jamie Foxx, Christoph Waltz
+Genre: Western/Drama
+
+Title: The Avengers
+Rating: 8.0
+Main Actors: Robert Downey Jr., Chris Evans
+Genre: Action/Adventure
+
+Title: Inception
+Rating: 8.8
+Main Actors: Leonardo DiCaprio, Joseph Gordon-Levitt
+Genre: Sci-Fi/Action
+
+Title: Forrest Gump
+Rating: 8.8
+Main Actors: Tom Hanks, Robin Wright
+Genre: Drama/Romance
+
+Title: Interstellar
+Rating: 8.6
+Main Actors: Matthew McConaughey, Anne Hathaway
+Genre: Sci-Fi/Adventure
+
+Title: The Lion King
+Rating: 8.5
+Main Actors: Matthew Broderick, James Earl Jones
+Genre: Animation/Adventure
+
+Title: Toy Story
+Rating: 8.3
+Main Actors: Tom Hanks, Tim Allen
+Genre: Animation/Adventure
+
+Title: 3 Idiots
+Rating: 8.4
+Main Actors: Aamir Khan, Kareena Kapoor
+Genre: Comedy/Drama
+
+Title: Lagaan
+Rating: 8.1
+Main Actors: Aamir Khan, Gracy Singh
+Genre: Drama/Sport
+
+Title: Dilwale Dulhania Le Jayenge
+Rating: 8.1
+Main Actors: Shah Rukh Khan, Kajol
+Genre: Romance/Comedy
+
+Title: Sholay
+Rating: 8.2
+Main Actors: Dharmendra, Amitabh Bachchan
+Genre: Action/Adventure
+
+Title: Gully Boy
+Rating: 8.1
+Main Actors: Ranveer Singh, Alia Bhatt
+Genre: Drama/Music
+
+Title: PK
+Rating: 8.1
+Main Actors: Aamir Khan, Anushka Sharma
+Genre: Comedy/Drama
+
+Title: Andaz Apna Apna
+Rating: 8.2
+Main Actors: Aamir Khan, Salman Khan
+Genre: Comedy/Romance
+
+Title: Dil Chahta Hai
+Rating: 8.1
+Main Actors: Aamir Khan, Saif Ali Khan
+Genre: Drama/Romance
+
+Title: Swades
+Rating: 8.2
+Main Actors: Shah Rukh Khan
+Genre: Drama
+
+Title: Queen
+Rating: 8.2
+Main Actors: Kangana Ranaut
+Genre: Comedy/Drama
+
+Title: Mughal-E-Azam
+Rating: 8.2
+Main Actors: Dilip Kumar, Madhubala
+Genre: Drama/Romance
+
+Title: Dangal
+Rating: 8.4
+Main Actors: Aamir Khan, Fatima Sana Shaikh
+Genre: Biography/Drama
+
+Title: Hera Pheri
+Rating: 8.2
+Main Actors: Akshay Kumar, Paresh Rawal
+Genre: Comedy
+
+Title: Taare Zameen Par
+Rating: 8.4
+Main Actors: Aamir Khan, Darsheel Safary
+Genre: Drama/Family
+
+Title: Gangs of Wasseypur
+Rating: 8.2
+Main Actors: Manoj Bajpayee, Nawazuddin Siddiqui
+Genre: Action/Crime
+
+Title: Black
+Rating: 8.2
+Main Actors: Amitabh Bachchan, Rani Mukerji
+Genre: Drama
+
+Title: Zindagi Na Milegi Dobara
+Rating: 8.1
+Main Actors: Hrithik Roshan, Farhan Akhtar
+Genre: Comedy/Drama
+
+Title: Kabhi Khushi Kabhie Gham
+Rating: 7.9
+Main Actors: Amitabh Bachchan, Shah Rukh Khan
+Genre: Drama/Romance
+
+Title: Dil Se..
+Rating: 7.6
+Main Actors: Shah Rukh Khan, Manisha Koirala
+Genre: Drama/Romance
+
+Title: Drishyam
+Rating: 8.2
+Main Actors: Ajay Devgn, Tabu
+Genre: Crime/Drama
+
+Title: Barfi!
+Rating: 8.1
+Main Actors: Ranbir Kapoor, Priyanka Chopra
+Genre: Comedy/Drama
+
+Title: Omkara
+Rating: 8.1
+Main Actors: Ajay Devgn, Kareena Kapoor
+Genre: Crime/Drama
+
+Title: Article 15
+Rating: 8.2
+Main Actors: Ayushmann Khurrana, Isha Talwar
+Genre: Crime/Drama
+
+Title: Chak De! India
+Rating: 8.1
+Main Actors: Shah Rukh Khan
+Genre: Drama/Sport
+
+Title: Bhaag Milkha Bhaag
+Rating: 8.2
+Main Actors: Farhan Akhtar, Sonam Kapoor
+Genre: Biography/Drama
+
+Title: My Name Is Khan
+Rating: 8.0
+Main Actors: Shah Rukh Khan, Kajol
+Genre: Drama/Romance
+
+Title: Barfi!
+Rating: 8.1
+Main Actors: Ranbir Kapoor, Priyanka Chopra
+Genre: Comedy/Drama
+
+Title: Gadar: Ek Prem Katha
+Rating: 7.1
+Main Actors: Sunny Deol, Amisha Patel
+Genre: Action/Drama
+
+Title: Rang De Basanti
+Rating: 8.1
+Main Actors: Aamir Khan, Siddharth
+Genre: Comedy/Drama
+
+Title: Padosan
+Rating: 8.0
+Main Actors: Sunil Dutt, Saira Banu
+Genre: Comedy/Musical
+
+Title: Bombay
+Rating: 8.1
+Main Actors: Arvind Swamy, Manisha Koirala
+Genre: Drama/Musical
+
+Title: Dil To Pagal Hai
+Rating: 7.0
+Main Actors: Shah Rukh Khan, Madhuri Dixit
+Genre: Musical/Romance
+
+Title: Devdas
+Rating: 7.6
+Main Actors: Shah Rukh Khan, Madhuri Dixit
+Genre: Drama/Musical
+
+Title: 2 States
+Rating: 6.9
+Main Actors: Arjun Kapoor, Alia Bhatt
+Genre: Comedy/Drama
+
+Title: Jo Jeeta Wohi Sikandar
+Rating: 7.9
+Main Actors: Aamir Khan, Ayesha Jhulka
+Genre: Drama/Romance
+
+Title: Lage Raho Munna Bhai
+Rating: 8.1
+Main Actors: Sanjay Dutt, Arshad Warsi
+Genre: Comedy/Drama
+
+Title: Guide
+Rating: 8.4
+Main Actors: Dev Anand, Waheeda Rehman
+Genre: Drama/Musical
+
+Title: A Wednesday!
+Rating: 8.1
+Main Actors: Anupam Kher, Naseeruddin Shah
+Genre: Crime/Drama
+
+Title: Anand
+Rating: 8.7
+Main Actors: Rajesh Khanna, Amitabh Bachchan
+Genre: Drama/Musical
+
+Title: Munna Bhai M.B.B.S.
+Rating: 8.1
+Main Actors: Sanjay Dutt, Arshad Warsi
+Genre: Comedy/Drama
+
+Title: PK
+Rating: 8.1
+Main Actors: Aamir Khan, Anushka Sharma
+Genre: Comedy/Drama
+
+Title: Black Friday
+Rating: 8.5
+Main Actors: Kay Kay Menon, Pawan Malhotra
+Genre: Crime/Drama
+
+Title: Haider
+Rating: 8.1
+Main Actors: Shahid Kapoor, Tabu
+Genre: Crime/Drama
+
+Title: Kahaani
+Rating: 8.1
+Main Actors: Vidya Balan, Parambrata Chatterjee
+Genre: Mystery/Thriller
+
+Title: Delhi Belly
+Rating: 7.6
+Main Actors: Imran Khan, Vir Das
+Genre: Comedy/Crime
+
+Title: Udaan
+Rating: 8.2
+Main Actors: Rajat Barmecha, Ronit Roy
+Genre: Drama
+
+Title: Paan Singh Tomar
+Rating: 8.2
+Main Actors: Irrfan Khan, Mahie Gill
+Genre: Biography/Crime
+
+Title: Pink
+Rating: 8.1
+Main Actors: Taapsee Pannu, Amitabh Bachchan
+Genre: Drama/Thriller
+
+Title: Khosla Ka Ghosla!
+Rating: 8.3
+Main Actors: Anupam Kher, Boman Irani
+Genre: Comedy/Crime
+
+Title: Wake Up Sid
+Rating: 7.6
+Main Actors: Ranbir Kapoor, Konkona Sen Sharma
+Genre: Comedy/Drama
+
+Title: Rocket Singh: Salesman of the Year
+Rating: 7.5
+Main Actors: Ranbir Kapoor, Prem Chopra
+Genre: Comedy/Drama
+
+Title: Newton
+Rating: 7.7
+Main Actors: Rajkummar Rao, Pankaj Tripathi
+Genre: Comedy/Drama
+
+Title: Chhichhore
+Rating: 8.2
+Main Actors: Sushant Singh Rajput, Shraddha Kapoor
+Genre: Comedy/Drama
+
+Title: The Lunchbox
+Rating: 7.8
+Main Actors: Irrfan Khan, Nimrat Kaur
+Genre: Drama/Romance
+
+Title: Badhaai Ho
+Rating: 8.0
+Main Actors: Ayushmann Khurrana, Neena Gupta
+Genre: Comedy/Drama
+
+Title: Article 15
+Rating: 8.2
+Main Actors: Ayushmann Khurrana, Isha Talwar
+Genre: Crime/Drama
+
+Title: Tumbbad
+Rating: 8.3
+Main Actors: Sohum Shah, Jyoti Malshe
+Genre: Drama/Fantasy
+
+Title: Queen
+Rating: 8.2
+Main Actors: Kangana Ranaut
+Genre: Comedy/Drama
+
+Title: Barfi!
+Rating: 8.1
+Main Actors: Ranbir Kapoor, Priyanka Chopra
+Genre: Comedy/Drama

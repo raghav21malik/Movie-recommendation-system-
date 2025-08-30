@@ -1,0 +1,32 @@
+{
+    "user1": [
+        "Inception",
+        "The Matrix"
+    ],
+    "user2": [
+        "Interstellar",
+        "Avatar"
+    ],
+    "Sidd": [
+        "The Matrix",
+        "Braveheart",
+        "The Prestige",
+        "Pulp Fiction"
+    ],
+    "Siddharth": [
+        "The Prestige",
+        "Braveheart"
+    ],
+    "raghav": ["Pulp Fiction"],
+    "current_user": [
+        "Paan Singh Tomar",
+        "Queen",
+        "The Matrix"
+    ],
+    "kanu": [
+        "The Matrix Reloaded",
+        "Queen",
+        "Paan Singh Tomar",
+        "The Prestige"
+    ]
+}
